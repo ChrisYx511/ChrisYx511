@@ -8,10 +8,10 @@ aka Xi Yang ✨
 
 ### Skills
 -	HTML + CSS + JS – Node.JS – Vue.JS
--	Linux : Client & Serveur – Command Line
+-	Linux : Client & Server – Command Line
 -	Microsoft365 – Entra ID – Azure 
 -	Windows
--	Git – GitHub (avec GitHub Actions)
+-	Git – GitHub (w/ GitHub Actions)
 
 ### :)
 ```javascript
