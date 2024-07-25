@@ -1,17 +1,16 @@
 ## Hi there! I'm Chris Yang!
 
-[ 200.C0 Computer Science and Mathematics @ Vanier College ]
+[ Incoming SE '29 @ UWaterloo ]
 
 📍 Montreal, QC, Canada
 
 aka Xi Yang ✨
 
 ### Skills
--	HTML + CSS + JS – Node.JS – Vue.JS
--	Linux : Client & Server – Command Line
--	Microsoft365 – Entra ID – Azure 
--	Windows
--	Git – GitHub (w/ GitHub Actions)
+-	HTML + CSS + JS; Node; React, Svelte, Vue
+- Mongo
+- Firebase
+- SQL and ORMs
 
 ### :)
 ```javascript
