@@ -1,4 +1,4 @@
-## Hi there! I'm Chris Yang!
+## Hi there! I'm Chris!
 
 [ Incoming SE '29 @ UWaterloo ]
 
