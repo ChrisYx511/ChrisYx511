@@ -1,6 +1,6 @@
 ## Hi there! I'm Chris!
 
-[ Incoming SE '29 @ UWaterloo ]
+[ SE '29 @ UWaterloo ]
 
 📍 Montreal, QC, Canada
 
