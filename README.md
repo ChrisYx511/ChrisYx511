@@ -2,9 +2,7 @@
 
 [ SE '29 @ UWaterloo ]
 
-📍 Montreal, QC, Canada
-
-aka Xi Yang ✨
+📍 Waterloo, ON, Canada
 
 ### Skills
 -	HTML + CSS + JS; Node; React, Svelte, Vue
