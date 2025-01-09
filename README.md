@@ -5,10 +5,9 @@
 📍 Waterloo, ON, Canada
 
 ### Skills
--	HTML + CSS + JS; Node; React, Svelte, Vue
-- Mongo
-- Firebase
-- SQL and ORMs
+Languages & Frameworks: Java, C, Python, JavaScript and TypeScript, Svelte, Next.JS & React, HTML/CSS, Node.js
+Utilities: Git, REST APIs, MongoDB & Firebase, Relational DBs, Azure, Docker, PowerApps, OpenID / JWT, Linux
+Human Languages: Fluent in English and French
 
 ### :)
 ```javascript
