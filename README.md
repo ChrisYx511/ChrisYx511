@@ -1,6 +1,7 @@
 ## Hi there! I'm Chris!
 
 [ SE '29 @ UWaterloo ]
+[Eng Intern @ Shopify]
 
 📍 Waterloo, ON, Canada
 
