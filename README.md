@@ -2,7 +2,7 @@
 
 [ SE '29 @ UWaterloo ]
 [ Eng Intern @ Shopify ]
-
+[ Software Lead @ Waterloo Rocketry]
 📍 Waterloo, ON, Canada
 
 ### Skills
